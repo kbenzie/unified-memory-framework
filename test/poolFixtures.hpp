@@ -9,6 +9,7 @@
 #include "provider.hpp"
 #include "umf/providers/provider_coarse.h"
 #include "umf/providers/provider_devdax_memory.h"
+#include "utils/utils_sanitizers.h"
 
 #include <array>
 #include <cstring>
